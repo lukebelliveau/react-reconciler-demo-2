@@ -1,5 +1,8 @@
 # React Reconciler Demo
 
+### NOTE:
+I have converted this to a more digestible format for learning. Please check out [Deact](https://github.com/lukebelliveau/deact).
+
 inside `src/` is a very simple implementation of React's stack reconciler, and a stand-in for
 ReactDOM's render() method.
 
